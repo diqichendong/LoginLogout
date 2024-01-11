@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Logout</string>
+    <string name="txtUsuarioHint">Usuario</string>
+    <string name="txtContrasenyaHint">Contraseña</string>
+    <string name="btnEntrar">ENTRAR</string>
+    <string name="menuLogout">Salir</string>
+    <string name="keyUsuario">usuario</string>
+    <string name="keyPassword">password</string>
+</resources>
